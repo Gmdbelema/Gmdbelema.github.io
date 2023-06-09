@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Gmdbelema.github.io</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, intial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="../Gmdbelema.github.io/css/style.css"/>
+	</head>
+	<body>
+
+		<section>
+			<div class="container">
+				<nav>
+				<div>
+					<h1>Hello World,</h1>
+					<ul>
+						<li><a href="#home">Home</a></li>
+						<li><a href="#About">About</a></li>
+						<li><a href="#project">Project</a></li>
+						<li><a href="#contact">Contact</a></li>
+					</ul>
+				</div>
+				</nav>
+				<div class="article">
+					<h1>I'm hosted with GitHub Pages With A Complete Responsive Portfolio Website.</h1>
+					<p>The project is a simple Web 
+						App that is designed to show case an individual career
+						 page with a means of communication through
+						  Links other than a mailing address.</p>
+					<a href="" class="btn">https://responsive-website-3a18f.web.app</a>
+				</div>
+			</div>
+		</section>
+
+
+	</body>
+</html>
+
